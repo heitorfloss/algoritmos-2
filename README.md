@@ -1,2 +1,2 @@
-# algoritmos-2
+# algoritmos2
 alg exemplo beckownd
